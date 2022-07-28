@@ -338,4 +338,79 @@ color: #289BDE;
         color: #777777;
     }
 
+    .trusted{
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 45px;
+        color: #1D1D1D;
+    }
+    .company img{
+        
+        margin: 25px;
+    }
+
+    .footer{
+    margin-top: 123px;
+    height: 472px;
+    background: #161616;
+    }
+
+    .footer-title{
+        padding-top: 130px;
+    }
+
+    .footer-headline{
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 40px;
+        color: #FFFFFF;
+
+    }
+    .first-p{
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 16px;
+        color: #E8E8E8;
+    }
+
+    .second-p{
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 15px;
+        color: #E8E8E8;
+    }
+
+    .social-media-icons i {
+    font-size: 2.5em;
+    padding: 0.2rem;
+    border-radius: 50%;
+    margin: 0.5em;
+    }
+
+    .fa-brands{
+        color: #242424;
+        
+    } 
     
+    .fa-facebook{
+        color: #FFFFFF;
+        
+        
+    }
+
+    .fa-twitter{
+        color: #FFFFFF;
+        border: #242424;
+        
+        border-radius: 100%;
+
+        
+        
+    }
+    .fa-linkedin{
+        color: #FFFFFF;
+    }
+
+    .fa-tiktok{
+        color: #FFFFFF;
+    }
