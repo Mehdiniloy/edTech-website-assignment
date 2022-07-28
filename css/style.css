@@ -248,3 +248,54 @@ color: #289BDE;
         border: 1px solid #289BDE;
         border-radius: 5px;
     }
+
+    .heading-title{
+        margin-top: 130px;
+    }
+
+    .feedback-title{
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 45px;
+        color: #1D1D1D;
+    }
+
+    .feedback-cap{
+        margin-top: 30px;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 16px;
+        color: #777777;
+    }
+
+    
+        
+.fa-solid{
+    color: #FBBF24;
+}
+.student-feedback{
+    width: 648px;
+    height: 336px;
+    left: 140px;
+    top: 4554px;
+    border: 1px solid #E8E8E8;
+    border-radius: 5px;
+    }
+
+    .all-icon{
+        margin-left: 380px;
+    }
+
+    .awlad-hossain{
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 18px;
+        color: #4A4A4A;
+
+    }
+    .ui-designer{
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 16px;
+        color: #777777;
+    }
