@@ -51,10 +51,10 @@ font-weight: 600;
 font-size: 20px;
 color: #289BDE;
 }
+
 .get-started{
 width: 182px;
 height: 56px;
-
 background: #289BDE;
 border: 1px solid #289BDE;
 border-radius: 5px;
@@ -62,6 +62,141 @@ border-radius: 5px;
 .get-started-digital{
 font-family: 'Poppins';
 font-weight: 600;
-font-size: 65px;
+font-size: 60px;
 color: #FFFFFF;
+}
+
+.discover{
+font-family: 'Poppins';
+font-weight: 600;
+font-size: 40px;
+color: #1D1D1D;
+}
+.discover-p{
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 16px;
+color: #777777;
+}
+
+.card-title{
+font-family: 'Poppins';
+font-weight: 600;
+font-size: 25px;
+color: #4A4A4A;
+}
+.card-text{
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 16px;
+color: #777777;
+}
+.price{
+font-family: 'Poppins';
+font-weight: 600;
+font-size: 18px;
+color: #289BDE;
+}
+
+.row > *{
+    padding: 0;
+}
+.more-courses{
+width: 248px;
+height: 56px;
+left: 676px;
+top: 1926px;
+
+background: #289BDE;
+border: 1px solid #289BDE;
+border-radius: 5px;
+}
+
+.more-courses-span{
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 20px;
+color: #FFFFFF;
+}
+
+.rdy-to-join{
+height: 200px;
+background: #289BDE;
+border-radius: 5px;
+}
+
+.join{
+font-family: 'Poppins';
+font-weight: 600;
+font-size: 40px;
+color: #FFFFFF;
+}
+
+.rgstr-btn{
+margin-top: 122px;
+margin-left: 150px;
+width: 199px;
+height: 56px;
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+}
+
+.rgstr-now{
+font-family: 'Poppins';
+font-weight: 600;
+font-size: 20px;
+color: #289BDE;
+}
+
+
+
+.items{
+    margin-right: 30px;
+}
+
+.read-more{
+width: 175px;
+height: 56px;
+background: #289BDE;
+border: 1px solid #289BDE;
+border-radius: 5px;
+}
+
+.explore-institute{
+    margin-top: 130px;
+  
+}
+.institute{
+    margin-top: 100px;
+    background: #F4FAFD;
+    border-radius: 5px;
+}
+
+.explore-title{
+font-family: 'Poppins';
+font-weight: 600;
+font-size: 45px;
+color: #1D1D1D;
+}
+.explore-p{
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 16px;
+color: #777777;
+}
+
+.total{
+font-family: 'Poppins';
+font-weight: 600;
+font-size: 45px;
+color: #1D1D1D;
+}
+
+.p-cap{
+font-family: 'Poppins';;
+font-weight: 500;
+font-size: 20px;
+color: #777777;
+
 }
