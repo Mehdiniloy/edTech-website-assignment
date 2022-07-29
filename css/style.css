@@ -202,8 +202,8 @@ color: #289BDE;
         background: #FFFFFF;
         border: 1px solid #FFFFFF;
         border-radius: 5px;
-        margin-top: 140px;
-        margin-left: 300px;
+        margin-top: 115px;
+        margin-left: 350px;
 
      }
 
@@ -237,6 +237,7 @@ color: #289BDE;
         font-weight: 600;
         font-size: 45px;
         color: #1D1D1D;
+        line-height: 60px;
     }
 
     .main-p-title{
@@ -244,6 +245,7 @@ color: #289BDE;
         font-weight: 400;
         font-size: 16px;
         color: #777777;
+        line-height: 30px
     }
     .view-all{
         width: 146px;
@@ -270,6 +272,8 @@ color: #289BDE;
         font-weight: 400;
         font-size: 16px;
         color: #777777;
+        line-height: 30px;
+
     }
 
     
@@ -279,7 +283,7 @@ color: #289BDE;
 }
 .student-feedback{
     width: 648px;
-    height: 336px;
+    height: 400px;
     left: 140px;
     top: 4554px;
     border: 1px solid #E8E8E8;
@@ -418,3 +422,4 @@ color: #289BDE;
     .fa-tiktok{
         color: #FFFFFF;
     }
+
